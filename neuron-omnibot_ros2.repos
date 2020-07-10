@@ -10,15 +10,15 @@ repositories:
   Neuron-OmniBot:
     type: git
     url: https://github.com/Adlink-ROS/Neuron-OmniBot.git
-    version: eloquent-devel
+    version: foxy-devel
   ydlidar_ros2:
     type: git
     url: https://github.com/Adlink-ROS/ydlidar_ros2.git
     version: master
-  robot_localization:
-    type: git
-    url: https://github.com/Adlink-ROS/robot_localization.git
-    version: eloquent-devel
+  #robot_localization:
+  #  type: git
+  #  url: https://github.com/Adlink-ROS/robot_localization.git
+  #  version: foxy-devel
   #slam_gmapping:
   #  type: git
   #  url: https://github.com/skylerpan/slam_gmapping.git
