@@ -15,11 +15,15 @@ repositories:
     type: git
     url: https://github.com/Adlink-ROS/ydlidar_ros2.git
     version: master
-  robot_localization:
+  behavior_tree.cpp:
     type: git
-    url: https://github.com/Adlink-ROS/robot_localization.git
-    version: eloquent-devel
+    url: https://github.com/Adlink-ROS/BehaviorTree.CPP.git
+    version: master
   #slam_gmapping:
   #  type: git
-  #  url: https://github.com/skylerpan/slam_gmapping.git
+  #  url: https://github.com/Adlink-ROS/slam_gmapping.git
   #  version: master
+  #robot_localization:
+  #  type: git
+  #  url: https://github.com/Adlink-ROS/robot_localization.git
+  #  version: eloquent-devel
