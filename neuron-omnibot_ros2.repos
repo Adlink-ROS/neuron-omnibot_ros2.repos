@@ -15,11 +15,11 @@ repositories:
     type: git
     url: https://github.com/Adlink-ROS/ydlidar_ros2.git
     version: master
+  slam_gmapping:
+    type: git
+    url: https://github.com/Adlink-ROS/slam_gmapping.git
+    version: foxy-devel
   #robot_localization:
   #  type: git
   #  url: https://github.com/Adlink-ROS/robot_localization.git
   #  version: foxy-devel
-  #slam_gmapping:
-  #  type: git
-  #  url: https://github.com/skylerpan/slam_gmapping.git
-  #  version: master
